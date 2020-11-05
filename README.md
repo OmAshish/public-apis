@@ -1,6 +1,6 @@
 # Public APIs [![Run tests](https://github.com/public-apis/public-apis/workflows/Run%20tests/badge.svg)](https://github.com/public-apis/public-apis/actions?query=workflow%3A%22Run+tests%22)
 
-A collective list of free APIs for use in software and web development.
+A collective list of free APIs for use in software and web developments.
 
 A public API for this project can be found [here](https://github.com/davemachado/public-api)!
 
